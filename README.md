@@ -9,4 +9,15 @@ In this Hotel-revenue project, I will address a few questions a hotel management
 The questions are outlined below:
 1) What is the hotel revenue growth per year?
 2)Is there any relation between guest and their personal cars?
-2) Is there any kind of trends/patterns observed in the data?
+3) Is there any kind of trends/patterns observed in the data?
+
+
+
+
+
+
+
+
+![hotel_revenue](https://github.com/user-attachments/assets/1ebc257a-0e12-40fe-9b6c-e342f83dd4ab)
+
+
